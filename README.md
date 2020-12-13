@@ -1,1 +1,3 @@
 # HotelReview
+
+I this small project, I am showing how to build multiclass text classification machine learning (ML) models to classify hotel reviews into a five-star scale. The goal of this project is to build ML classifiers that predict the rating of the reviews. Different classification models were trained on a big sample of hotel reviews. The reviews were preprocessed by removing punctuations and nonalphabetic characters and stop words. The features used in the final models were mainly n-grams of term frequency-inverse document frequency (tf-idf) of word lemmas. The accuracy obtained with the best model reached 75%.
